@@ -20,3 +20,5 @@ The game features fast-paced combat, score tracking, and two difficulty modes fo
 - Add new enemy types
 - Implement sound effects and music
 - Introduce a wave-based progression system
+
+[Play the Game](https://j0dah.itch.io/mini-doom-guy)
