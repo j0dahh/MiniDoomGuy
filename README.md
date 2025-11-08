@@ -5,16 +5,17 @@ Players control a small “Doom Guy” character who battles waves of monsters u
 The game features fast-paced combat, score tracking, and two difficulty modes for replayability.
 
 ## Features
-- Dual weapon system (sword + gun)
-- Two game modes: Classic (10 hearts) and Hardcore (1 heart)
-- Enemy AI with simple attack behavior
-- Score counter that tracks defeated enemies
-- Smooth player animations (idle, walk, attack)
+- Two combat mechanics: melee (sword) and ranged (gun)
+- Two game modes: **Classic (10 hearts)** and **Hardcore (1 heart)**
+- Score counter tracking defeated enemies
+- Smooth character animations for movement, attacks, and idle states
+- Menu system with start/restart functionality
 
-## Built With
-- Unity Engine (2D)
-- C#
-- Free 2D pixel art assets
+## Tools & Technologies
+- **Engine:** Unity (2D)
+- **Language:** C#
+- **Art Style:** Free 2D pixel art assets
+- **Development:** Solo project – designed and coded all gameplay mechanics
 
 ## Future Plans
 - Add new enemy types
